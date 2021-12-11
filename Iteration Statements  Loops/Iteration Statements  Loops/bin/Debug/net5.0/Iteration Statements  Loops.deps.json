@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Iteration Statements  Loops/1.0.0": {
+        "runtime": {
+          "Iteration Statements  Loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Iteration Statements  Loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

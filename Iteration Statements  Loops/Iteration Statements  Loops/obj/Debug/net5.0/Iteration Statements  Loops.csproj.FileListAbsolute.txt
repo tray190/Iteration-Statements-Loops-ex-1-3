@@ -1,0 +1,16 @@
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\bin\Debug\net5.0\Iteration Statements  Loops.exe
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\bin\Debug\net5.0\Iteration Statements  Loops.deps.json
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\bin\Debug\net5.0\Iteration Statements  Loops.runtimeconfig.json
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\bin\Debug\net5.0\Iteration Statements  Loops.runtimeconfig.dev.json
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\bin\Debug\net5.0\Iteration Statements  Loops.dll
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\bin\Debug\net5.0\ref\Iteration Statements  Loops.dll
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\bin\Debug\net5.0\Iteration Statements  Loops.pdb
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\obj\Debug\net5.0\Iteration Statements  Loops.csproj.AssemblyReference.cache
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\obj\Debug\net5.0\Iteration Statements  Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\obj\Debug\net5.0\Iteration Statements  Loops.AssemblyInfoInputs.cache
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\obj\Debug\net5.0\Iteration Statements  Loops.AssemblyInfo.cs
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\obj\Debug\net5.0\Iteration Statements  Loops.csproj.CoreCompileInputs.cache
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\obj\Debug\net5.0\Iteration Statements  Loops.dll
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\obj\Debug\net5.0\ref\Iteration Statements  Loops.dll
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\obj\Debug\net5.0\Iteration Statements  Loops.pdb
+C:\Users\bellt\Desktop\repos11\Iteration Statements  Loops\Iteration Statements  Loops\obj\Debug\net5.0\Iteration Statements  Loops.genruntimeconfig.cache

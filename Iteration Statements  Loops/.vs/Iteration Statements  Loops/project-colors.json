@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46b04295-9d0d-41a9-bfd9-6d5d82d8b1d8": {
+      "ProjectGuid": "46b04295-9d0d-41a9-bfd9-6d5d82d8b1d8",
+      "DisplayName": "Iteration Statements  Loops",
+      "ColorIndex": 0
+    },
+    "980c2afd-a3bc-4170-a701-08810c3af7ab": {
+      "ProjectGuid": "980c2afd-a3bc-4170-a701-08810c3af7ab",
+      "DisplayName": "MethodsWithLoopsAndConditionals",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
